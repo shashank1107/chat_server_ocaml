@@ -28,7 +28,7 @@ server is again available to accept new client connections.
 
 
 
-# Sockets Ocaml
+## Sockets Ocaml
 
 Simple example to demostrate client server connection using ocaml Lwt, library for concurrent programming with promises. After establishing connection, server reads the message from client and returns the vowels count in the message sent by client.
 Purpose of this exercise is to understand implementation of server-client communication and how to structure project in Ocaml. 
