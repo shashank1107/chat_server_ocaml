@@ -46,4 +46,4 @@ For PF_INET these can be:
    - SOCK_STREAM: It sends messages over the connection as stream over reliable network TCP/IP ensuring successful delivery, ordered packets of messages, and de-duplication. More to discuss on this in TCP article.
    - SOCK_DGRAM: It sends messages using UDP protocol
   
-Check out the [accompanying blog post](https://shashankp.dev/).
+Check out the [accompanying blog post](https://shashankp.dev/blog/setting-up-project-in-ocaml).
